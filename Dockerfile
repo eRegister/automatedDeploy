@@ -1,5 +1,5 @@
 
-FROM omrsregrepo/bahmni_base:02092019
+FROM omrsregrepo/bahmni_base:69_260718
 LABEL maintainer makhatemg@gmail.com
 # bahmni updates happen here
 ARG container_name
