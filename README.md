@@ -1,2 +1,5 @@
 # automatedDeploy
-a temporary Repo to test out automated deployment 
+
+A temporary Repo to test out automated deployment
+When is matures, it'll be transfered to *bahmni_docker* repo.
+
